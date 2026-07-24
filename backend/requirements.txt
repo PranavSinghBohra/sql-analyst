@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+
+langgraph
+langgraph-checkpoint-sqlite
+langchain-openai
+langchain-core
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+
+sqlglot
+psycopg2-binary
+pandas
+
+pytest
