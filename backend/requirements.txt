@@ -13,5 +13,3 @@ sentence-transformers
 sqlglot
 psycopg2-binary
 pandas
-
-pytest
